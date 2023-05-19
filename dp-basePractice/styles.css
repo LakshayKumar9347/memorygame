@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-direction: column;
+    height: 100vh;
+    background-color: black;
+    color: aliceblue;
+}
+#display_image{
+    width: 375px;
+    height: 211px;
+    border: 1px solid mintcream;
+    background-position: center;
+    background-size: cover;
+}
