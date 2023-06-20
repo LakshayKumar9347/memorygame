@@ -1,4 +1,19 @@
 body{
-    /* background-color: black; */
-    color: rgb(225, 68, 212);
+    background-color: black;
+    color: rgb(255, 185, 249);
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 70vw;
+    height: 70vh;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+}
+h3{
+    text-align: center;
 }
